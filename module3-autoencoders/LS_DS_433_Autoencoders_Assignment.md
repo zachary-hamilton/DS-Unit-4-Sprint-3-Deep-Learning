@@ -11,3 +11,8 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+
+What are you most hoping is achieved my artificial intelligence?
+Which safety concern do you think is most relevant?
+Where do yout think the next advance in AI is going to come from?
